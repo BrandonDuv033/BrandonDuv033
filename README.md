@@ -3,15 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/BrandonDuv033">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
-  </a>
-  <a href="https://linkedin.com/in/brandon-guevara-1966a83aa">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
-  </a>
-  <a href="mailto:brandonduv007@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" />
-  </a>
+  <a href="https://linkedin.com/in/brandon-guevara-1966a83aa"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>
+  <a href="mailto:brandonduv007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" /></a>
 </p>
 
 ---
