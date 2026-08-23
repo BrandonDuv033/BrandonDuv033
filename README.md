@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,java,spring,mysql,git,vscode&perline=6" alt="Mis Tecnologías" />
