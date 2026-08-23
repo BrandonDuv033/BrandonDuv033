@@ -1,15 +1,16 @@
-<h1 align="center">¡Hola! Soy Brandon 👋</h1>
-
 <p align="center">
-  <b>Desarrollador de Software | Análisis y Desarrollo de Software (ADSO - SENA)</b>
+  <img src="https://raw.githubusercontent.com/BrandonDuv033/BrandonDuv033/main/header.jpg" alt="Brandon Guevara Header" width="100%" />
 </p>
 
 <p align="center">
+  <a href="https://github.com/BrandonDuv033">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
+  </a>
   <a href="https://linkedin.com/in/brandon-guevara-1966a83aa">
-    <img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=1a1b26" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
   </a>
   <a href="mailto:brandonduv007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-f7768e?style=for-the-badge&logo=gmail&logoColor=1a1b26" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" />
   </a>
 </p>
 
