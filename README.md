@@ -26,30 +26,43 @@
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,java,spring,mysql,mariadb,git,vscode&perline=6" alt="Mis Tecnologías" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,java,spring,mysql,git,vscode&perline=6" alt="Mis Tecnologías" />
 </p>
 
 ---
 
 ### 📌 Proyectos Destacados
 
-<p align="center">
-  <a href="https://github.com/BrandonDuv033/Panify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonDuv033&repo=Panify&theme=tokyonight&hide_border=true" alt="Panify Card" width="48%" />
-  </a>
-  <a href="https://github.com/BrandonDuv033/PapeleriApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonDuv033&repo=PapeleriApp&theme=tokyonight&hide_border=true" alt="PapeleriApp Card" width="48%" />
-  </a>
-</p>
-
-<br/>
-
-> 🍞 **[Panify](https://github.com/BrandonDuv033/Panify)** — Sistema web de gestión integral para el control de versiones e inventario en panaderías.  
-> 📝 **[PapeleriApp](https://github.com/BrandonDuv033/PapeleriApp)** — Sistema web POS para la administración de ventas, clientes y stock en negocio de papelería.
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🍞 Panify</h3>
+      <p align="center">
+        <a href="https://github.com/BrandonDuv033/Panify">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonDuv033&repo=Panify&theme=tokyonight&hide_border=true" width="100%"/>
+        </a>
+      </p>
+      <p>Sistema web para la gestión integral y administración en panaderías (clientes, panaderos y entregas).</p>
+      <p><b>Tecnologías:</b> HTML, CSS, JavaScript</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📝 PapeleriApp</h3>
+      <p align="center">
+        <a href="https://github.com/BrandonDuv033/PapeleriApp">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonDuv033&repo=PapeleriApp&theme=tokyonight&hide_border=true" width="100%"/>
+        </a>
+      </p>
+      <p>Sistema de gestión POS para administración de ventas, clientes y stock en negocio de papelería.</p>
+      <p><b>Tecnologías:</b> Java, Spring Boot, MySQL</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📊 GitHub Stats
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=BrandonDuv033&theme=tokyonight&hide_border=true&hide_title=true&border_radius=3.5)
+<p align="center">
+<img src="https://ghstats.dev/api/card?username=BrandonDuv033&theme=tokyonight&hide_border=true&hide_title=true&border_radius=3.5" alt="GitHub Stats Card" />
+</p>
