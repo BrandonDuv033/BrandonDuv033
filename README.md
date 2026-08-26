@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BrandonDuv033/BrandonDuv033/main/header.jpg" alt="Brandon Guevara Header" width="100%" />
+  <img src="https://raw.githubusercontent.com/BrandonDuv033/BrandonDuv033/main/header.png" alt="Brandon Guevara Header" width="100%" />
 </p>
 
 ---
